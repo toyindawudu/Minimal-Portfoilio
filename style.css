@@ -214,6 +214,11 @@ a.project-item {
     transition: all 0.3s ease-in-out
 }
 
+.project-image {
+    width: max-content;
+    height: 80px;
+}
+
 @media (min-width: 769px) {
     a.project-item {
         width:50%;
