@@ -34,7 +34,8 @@ html,body,ul,ol,figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    /* height: 80px; */
 }
 
 h1,h2,h3 {
@@ -220,9 +221,13 @@ a.project-item {
 }
 
 @media (min-width: 769px) {
-    a.project-item {
-        width:50%;
-        float: left
+    .projects-collage{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .project-item {
+        width: 50%;
     }
 }
 
