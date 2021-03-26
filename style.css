@@ -177,7 +177,7 @@ b {
 }
 
 .projects .projects-collage {
-    max-width: 96rem;   /* Enable this if you want some margin down the sides of the projects. */
+    max-width: 96rem;  /* Enable this if you want some margin down the sides of the projects. */
     margin: 0 auto
 }
 
@@ -275,12 +275,13 @@ a.project-item:hover .project-text h2:after {
 
 .project-text p {
     margin: 0;
-    padding-top: 1.5rem
+    padding-top: 1.5rem;
+    /* max-width: 300px; */
 }
 
 img {
     height: 375px;
-    width: 100%
+    width: 100%;
 }
 
 .project-cta {
