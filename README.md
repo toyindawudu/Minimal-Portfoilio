@@ -10,7 +10,7 @@ This project represents my first portfolio as a Front-end Developer.
 
 ## Approach
 
-Learning HTML + CSS was the first thing I learnt after buying a book by JOn Duckett. Then I bought the JavaScript and that's how it all started.
+Learning HTML + CSS was the first thing I learnt after buying a book by Jon Duckett. Then I bought the JavaScript and that's how it all started.
 
 This portfolio was inspired by X 
 
