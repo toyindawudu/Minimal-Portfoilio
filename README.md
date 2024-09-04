@@ -2,7 +2,7 @@
 * [Overview] (#overview)
 * [Approach]
 
-## Overview 
+## Overview
 
 I started learning to code in February 2018 after a lot encouragement from my Wife and Sister-in-law. It wasn't until October 2020 that I believe my "why" was greater than anything and since then I have poured countless hours in my pursuit of understanding front-end technologies.
 
